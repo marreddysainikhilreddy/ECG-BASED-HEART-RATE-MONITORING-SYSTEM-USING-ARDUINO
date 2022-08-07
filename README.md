@@ -1,4 +1,6 @@
 # ECG-BASED-HEART-RATE-MONITORING-SYSTEM-USING-ARDUINO
+<p>I have built a low-cost ECG-based heart rate monitoring system using Arduino to measure a person's heart rate in real-time or record for later study. 
+Built an affordable device costing around 15 USD to help patients get diagnosed from the comfort of their homes without traveling to the hospital.</p>
 
 <h2><b>The Heartbeat Sensor</b></h2>
 
