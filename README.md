@@ -36,6 +36,6 @@ Wiring your sensor to the Arduino is pretty simple:<br></br>
 <p align="justify">*For adults 18 and older, a normal resting heart rate is between 60 and 100 beats per minute (bpm), depending on the person’s physical condition and age. For children ages 6 to 15, the normal resting heart rate is between 70 and 100 bpm, according to the AHA.</p>
 </div>
 <h2>Hardware Screenshot</h2>
-<img src="hardware screenshot.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/48044041/208750325-7e5990c5-ec3d-4bb9-bf60-9c7d63b8e65c.png" width="60%" height="60%">
 <h2>Output Screenshot:</h2>
-<img src="output_screenshot.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/48044041/208750224-86ce16d7-575c-44ed-b898-c3517e89072e.png" width="60%" height="60%">
